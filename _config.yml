@@ -10,11 +10,11 @@ language: 'en-uk'
 name: 'Finding The Way Home'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
-short_url: 'jekyller.github.io/jasper/'
+short_url: 'min-kyunng.github.io/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -45,8 +45,8 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyller
-repo: jasper
+username: min-kyung
+repo: min-kyung.github.io
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
